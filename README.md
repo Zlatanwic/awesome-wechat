@@ -47,7 +47,7 @@
 
 ## Rust
 
-- [weixin-mcp-rs](https://github.com/你/weixin-mcp-rs) - 一个基于Rust语言的MCP服务器，可通过Chrome浏览器读取微信公众号文章
+- [Zlatanwic/weixin-mcp-rs](https://github.com/Zlatanwic/weixin-mcp-rs): <sup>(公众号)</sup> <sup>(Framework)</sup> 一个基于Rust语言的MCP服务器，可通过Chrome浏览器读取微信公众号文章
 
 
 ## Elixir
